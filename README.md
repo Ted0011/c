@@ -8,4 +8,6 @@ Requriments ==> <pull><apache2><xmapp>apache2 running on your system
   
   copy both .html and .php file to apache htdocs and your phishing page is ready all that is remaining is to start apache server in your system and waiting for the victim to enter there credintials it will be saved in the same htdocs as .txt file and will add if any more credintials is given to the page...
   
+  in my case the file will be saved as login.txt
+  
   Happy HACKINg?!
