@@ -1,5 +1,5 @@
 # c
-
+Optional requriment Notepad++
 Requriments ==> <pull><apache2><xmapp>apache2 running on your system
   
   copy my current facebook index by logging out your account and right clicking on any place on facebook screen and view source not inspect
