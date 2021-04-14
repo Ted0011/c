@@ -14,3 +14,5 @@ Requriments ==> <pull><apache2><xmapp>apache2 running on your system
 Client and server python file are another thing
 
 Install python2.7 and copy or run in exe python.exe
+
+run from app C:\Python27
