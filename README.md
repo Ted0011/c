@@ -13,4 +13,4 @@ Requriments ==> <pull><apache2><xmapp>apache2 running on your system
   Happy HACKINg?!
 Client and server python file are another thing
 
-Install python2.7 and copy or run in exe python<>.exe
+Install python2.7 and copy or run in exe python.exe
