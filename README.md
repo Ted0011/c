@@ -19,8 +19,8 @@ run from app C:\Python27
 
 
 Also can add date and time using <date.strfdate>
-date = datetime.datetime.now()
-date_time=strf.date('%H:%S')<fortime>
-  print ('Date:', date_time)<inserver><inclient>
+        date = datetime.datetime.now()
+        date_time=strf.date('%H:%S')<fortime>
+      print ('Date:', date_time)<inserver><inclient>
   
   copy this and paste on top by import datetime ontop?!
